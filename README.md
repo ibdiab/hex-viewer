@@ -6,7 +6,7 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
    
 2. Afterward, install `Hex_Viewer.py` from the repository.
    
-3. For Windows and MAC users, double click the file.
+3. Double click the file.
    
 4. Enter the file's name. If it is not in the same directory, enter the exact path to the file (INCLUDE THE FILE EXTENSION)
    
