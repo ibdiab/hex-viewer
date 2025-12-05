@@ -6,7 +6,7 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
    
 2. Afterward, install `Hex_Viewer.py` from the repository.
    
-3. Double click the file.
+3. Double click the file. Or alternatively, open it in your preferred IDE.
    
 4. Enter the file's name. If it is not in the same directory, enter the exact path to the file (INCLUDE THE FILE EXTENSION)
    
@@ -24,12 +24,14 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
 4. Give the program executable permissions with the command: `chmod a+x Hex_Viewer_MAC_Linux.py`
    
 5. From there, run the script in your preferred terminal: `./Hex_Viewer_MAC_Linux.py`
+
+7. Alternatively, run it in your preferred IDE.
     
-6. Enter the file's name. If it is not in the same directory, enter the exact path to the file (INCLUDE THE FILE EXTENSION)
+8. Enter the file's name. If it is not in the same directory, enter the exact path to the file (INCLUDE THE FILE EXTENSION)
     
-7. Linux Example (Debian, Arch, Fedora, etc.): `/home/user/Desktop/example3.txt` Make sure you're entering your actual file's path. These are just examples for guidance.
+9. Linux Example (Debian, Arch, Fedora, etc.): `/home/user/Desktop/example3.txt` Make sure you're entering your actual file's path. These are just examples for guidance.
     
-8. MAC OS Example: `/Users/user1/Documents/example2.iso` Make sure you're entering your actual file's path. These are just examples for guidance.
+10. MAC OS Example: `/Users/user1/Documents/example2.iso` Make sure you're entering your actual file's path. These are just examples for guidance.
 
 
 
