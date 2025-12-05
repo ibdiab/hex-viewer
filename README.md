@@ -6,11 +6,15 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
    
 2. Afterward, install `Hex_Viewer.py` from the repository.
    
-3. Double click the file. Or alternatively, open it in your preferred IDE.
+3. Open command prompt or PowerShell and navigate to the directory where you installed this. For example: `cd C:\Users\user\Desktop\Hex_Viewer`
+
+4. Run the script with `py Hex_Viewer.py` or `python Hex_Viewer.py`
+
+5. Alternatively, you may open the file in your preffered IDE.
    
-4. Enter the file's name. If it is not in the same directory, enter the exact path to the file (INCLUDE THE FILE EXTENSION)
+6. Enter the file's name. If it is not in the same directory, enter the exact path to the file (INCLUDE THE FILE EXTENSION)
    
-5. Windows Example: `C:\Users\user\Desktop\example.dll` Make sure you're entering your actual file's path. These are just examples for guidance.
+7. Windows Example: `C:\Users\user\Desktop\example.dll` Make sure you're entering your actual file's path. These are just examples for guidance.
 
 
 
@@ -25,7 +29,7 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
    
 5. From there, run the script in your preferred terminal: `./Hex_Viewer_MAC_Linux.py`
 
-7. Alternatively, run it in your preferred IDE.
+7. Alternatively, you may open the file in your preferred IDE.
     
 8. Enter the file's name. If it is not in the same directory, enter the exact path to the file (INCLUDE THE FILE EXTENSION)
     
