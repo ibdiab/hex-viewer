@@ -16,7 +16,7 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
    
 7. Windows Example: `C:\Users\user\Desktop\example.dll` Make sure you're entering your actual file's path. These are just examples for guidance.
 
-8. *OPTIONAL*: After you're done viewing the hexadecimal code, you may open the file ending in `.hex.txt` for further analysis and/or debugginf if you wish. It's created in the same directory as the script.
+8. *OPTIONAL*: After you're done viewing the hexadecimal code, you may open the file ending in `.hex.txt` for further analysis and/or debugging if you wish. It's created in the same directory as the script.
 
 
 
@@ -39,7 +39,7 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
     
 10. MAC OS Example: `/Users/user1/Documents/game.iso` Make sure you're entering your actual file's path. These are just examples for guidance.
 
-11. *OPTIONAL*: After you're done viewing the hexadecimal code, you may open the file ending in `.hex.txt` for further analysis and/or debugginf if you wish. It's created in the same directory as the script.
+11. *OPTIONAL*: After you're done viewing the hexadecimal code, you may open the file ending in `.hex.txt` for further analysis and/or debugging if you wish. It's created in the same directory as the script.
 
 
 
