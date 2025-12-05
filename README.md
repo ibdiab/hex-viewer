@@ -35,7 +35,7 @@ A CLI-based python program allowing the user to pick a file and view it in hexad
     
 9. Linux Example (Debian, Arch, Fedora, etc.): `/home/user/Desktop/example3.txt` Make sure you're entering your actual file's path. These are just examples for guidance.
     
-10. MAC OS Example: `/Users/user1/Documents/example2.iso` Make sure you're entering your actual file's path. These are just examples for guidance.
+10. MAC OS Example: `/Users/user1/Documents/game.iso` Make sure you're entering your actual file's path. These are just examples for guidance.
 
 
 
