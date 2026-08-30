@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Author: Ibrahim Diab
 # Description: A Hex viewer allowing anyone to read a file in binary and display its bytes in hexadecimal. Then
 # the result is written to a file for debugging and analyzing.
