@@ -70,8 +70,8 @@ From there, give the script executable permissions and then run it with
 ## USAGE
 1. Enter the file's name. If it's not in the same directory, enter the absolute path to the file (INCLUDE THE FILE EXTENSION)
    - Windows Example: `C:\Users\user\Desktop\example.dll` Make sure you're entering your actual file's path. These are examples for guidance.
-   - Mac OS Example: /Users/user1/Documents/game.iso` Make sure you're entering your actual file's path. These are examples for guidance.
-   - Linux Example (Debian, Arch, Fedora, etc.): /home/user/Desktop/example3.txt` Make sure you're entering your actual file's path. These are examples for guidance.
+   - Mac OS Example: `/Users/user1/Documents/game.iso` Make sure you're entering your actual file's path. These are examples for guidance.
+   - Linux Example (Debian, Arch, Fedora, etc.): `/home/user/Desktop/example3.txt` Make sure you're entering your actual file's path. These are examples for guidance.
 
 2. From there, feel free to view the hexadecimal code or open the file ending in `.hex.txt` for further analysis and debugging if you wish. It's created in the same directory as where the script was ran.
 
