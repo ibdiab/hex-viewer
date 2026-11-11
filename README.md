@@ -76,7 +76,7 @@ From there, give the script executable permissions and then run it with
 2. From there, feel free to view the hexadecimal code or open the file ending in `.hex.txt` for further analysis and debugging if you wish. It's created in the same directory as where the script was ran.
 
 ## PLANNED FEATURES
-- Color coding specific patterns
-- GUI for easier use
-- Importing existing HEX patterns and exporting them
+- Color coding specific patterns ✅
 - Editing the HEX code and syncing the results
+- GUI for easier use and accessibility
+    - Will be implemented once core functionality is added
